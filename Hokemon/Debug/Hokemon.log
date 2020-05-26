@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\lg\desktop\hokemon\hokemon\main.cpp(32): warning C4566: 유니버설 문자 이름 '\u2584'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\lg\desktop\hokemon\hokemon\main.cpp(33): warning C4566: 유니버설 문자 이름 '\u2590'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\lg\desktop\hokemon\hokemon\main.cpp(33): warning C4566: 유니버설 문자 이름 '\u2591'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\lg\desktop\hokemon\hokemon\main.cpp(33): warning C4566: 유니버설 문자 이름 '\u258C'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  Hokemon.vcxproj -> C:\Users\LG\Desktop\Hokemon\Debug\Hokemon.exe
